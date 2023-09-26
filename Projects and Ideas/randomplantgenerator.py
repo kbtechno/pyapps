@@ -34,6 +34,8 @@ elif random_plants == "succulents" or random_plants == "zz plants" or random_pla
     print("Make sure you don't overwater them!")
 elif random_plants == "fiddle leaf figs":
     print("These look great in the corner of a room!")
+elif random_plants == "begonias":
+    print("These do really well in the summer!")
 elif plants_type == "advanced":
     print("Good luck keeping this one alive! They require a lot of humidity!")
 else:
